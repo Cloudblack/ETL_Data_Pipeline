@@ -3,6 +3,9 @@
   <h1> 데이터 엔지니어링 Project </h1>
   AWS를 이용한 실시간 데이터 파이프라인 구성
  
+  ### 프로젝트 발표 영상
+  [프로젝트 발표 영상](https://drive.google.com/file/d/1I8L_jjILvb9z2wMtBbQnd5s9IasxDG9O/view?usp=sharing)
+  
   
   ### 👤 팀원 소개
   |김석재|김예린|노지훈|
