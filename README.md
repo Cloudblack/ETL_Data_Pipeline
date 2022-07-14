@@ -3,8 +3,7 @@
   <h1> 데이터 엔지니어링 Project </h1>
   AWS를 이용한 실시간 데이터 파이프라인 구성
  
-  ### 프로젝트 발표 영상
-  [프로젝트 발표 영상](https://drive.google.com/file/d/1I8L_jjILvb9z2wMtBbQnd5s9IasxDG9O/view?usp=sharing)
+
   
   
   ### 👤 팀원 소개
@@ -17,6 +16,9 @@
  
   
 </div> 
+
+  ### 프로젝트 발표 영상
+  [프로젝트 발표 영상](https://drive.google.com/file/d/1I8L_jjILvb9z2wMtBbQnd5s9IasxDG9O/view?usp=sharing)
 
   ### 프로젝트 배경 
    - 기업의 M/L팀에서 로그 분석을 위해 필요한 데이터를 불러오는 API가 필요해, 실시간으로 들어오는 데이터를 처리하고 저장 할 수 있는 ETL DATA PIPELINE을 구축하는 프로젝트이다. 
